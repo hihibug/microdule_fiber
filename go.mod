@@ -1,4 +1,4 @@
-module github.com/hihibug/microdule_fuber
+module github.com/hihibug/microdule_fiber
 
 go 1.19
 
